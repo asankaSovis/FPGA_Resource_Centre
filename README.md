@@ -14,7 +14,7 @@ All modules will be shared under the [MIT License](https://github.com/asankaSovi
 
 This module recieves a bitstream and transmit it through both ASK and FSK combined transmission method. Under ASK, two amplitude levels are used while under FSK, two frequecies are used. Thus, combining both allows two bits to be sent simultaneously.
 
-> [More Details]()
+> [More Details](https://github.com/asankaSovis/FPGA_Resource_Centre/blob/main/Verilog%20Modules/ASK%20and%20FSK%20Transmitter/README.md)
 
 ### 02. UART Transmitter/Reciever
 
