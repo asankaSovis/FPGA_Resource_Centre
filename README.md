@@ -20,7 +20,7 @@ This module recieves a bitstream and transmit it through both ASK and FSK combin
 
 These modules allow bitstreams to be sent and recieved through a transmission medium in the UART standard. In UART, transmission starts by a low bit and then eight of the bits are transmitted at a fixed bitrate (110, 300, 600, 1200, 2400, 4800, 9600, 14400, 19200, 38400, 57600, 115200, 128000 or 256000 bits per second) and end with a high bit. Recieving works by looking for a bit shift to low and then waiting the correct timespace and taking 8 samples.
 
-> [More Details]()
+> [More Details](https://github.com/asankaSovis/FPGA_Resource_Centre/blob/main/Verilog%20Modules/UART%20Transmitter-Reciever/README.md)
 
 ### 03. Hamming 74 Modulator/Demodulator
 
