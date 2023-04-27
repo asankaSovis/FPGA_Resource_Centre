@@ -26,6 +26,6 @@ These modules allow bitstreams to be sent and recieved through a transmission me
 
 Hamming code (Hamming(7,4)) is a type of error-correcting code used to detect and correct errors that may occur when transmitting digital data. The code uses four data bits and adds three parity bits to form a seven-bit code word. These parity bits are calculated based on the data bits using a specific algorithm. The code can detect and correct single-bit errors, making it useful in applications where data integrity is critical, such as in computer memory or communication systems. The Hamming code was invented by Richard Hamming in the 1950s and is still widely used today.
 
-> [More Details]()
+> [More Details](https://github.com/asankaSovis/FPGA_Resource_Centre/blob/main/Verilog%20Modules/Hamming%2074%20Modulator-Demodulator/README.md)
 
 `© 2023 Asanka Sovis`
