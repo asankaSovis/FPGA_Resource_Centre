@@ -11,4 +11,4 @@ Last Edited: 27/04/2023
 Author: Asanka Sovis
 ```
 
-`(C) 2023, Asanka Sovis`
+`© 2023, Asanka Sovis`
