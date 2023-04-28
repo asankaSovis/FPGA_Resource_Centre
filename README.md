@@ -1,5 +1,7 @@
 # 🎛️ FPGA Resource Centre
 
+![Poster](https://user-images.githubusercontent.com/46389631/235177369-ecfa3b11-7dce-49ce-a1ca-fdc6b616a4c1.png)
+
 ---
 
 ## 🎛️ Introduction
